@@ -1,16 +1,17 @@
 # flutter_demo
 
-A new Flutter project.
+Flutter簡易版個人APP
 
-## Getting Started
+## 專案目的
+學習Flutter，最基本操作練習。對Flutter產生基礎概念
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+側選單
+* 基本資料
+* 個性
+* 求學過程
+* 專案經驗
+* 工作經驗
+* 作品集
